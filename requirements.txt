@@ -13,3 +13,5 @@ sympy>=1.9
 
 # Optional: For unit testing
 pytest>=6.2.0
+
+seaborn>=0.11.0
